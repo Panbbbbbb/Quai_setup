@@ -3,4 +3,4 @@
 
 quai miner 教程分为两个部份
 
-#1. quai node 搭建
+# 1. quai node 搭建
