@@ -15,3 +15,5 @@ quai miner 教程分为两个部份
 
 安装好钱包后 可以获取一个地址或者多个地址
 ![image](https://github.com/Panbbbbbb/quai_setup/assets/20742832/82ab3db9-b0c6-476e-8402-9d2ce60e9545)
+
+out of date
